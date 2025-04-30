@@ -7,10 +7,9 @@
 I'm a passionate **Web Development** with experience in **HTML, CSS , Javascript, React, Nodejs, Tailwindcss, Bootstrap, Shadcn ui, Nextjs, Prisma, Mongodb**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Web development course in Alx**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌍 Languages: **HTML, CSS , Javascript, React, Nodejs, Tailwindcss, Bootstrap, Shadcn ui, Nextjs, Prisma, Mongodb**
+- 📫 How to reach me: **samuelndewa2018@gmail.com**
+- ⚡ Fun fact: **i love coding😊😊**
 
 ## My Skills 🧠
 
@@ -19,7 +18,10 @@ I'm a passionate **Web Development** with experience in **HTML, CSS , Javascript
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ## Featured Projects 💻
 
@@ -37,8 +39,8 @@ I'm a passionate **Web Development** with experience in **HTML, CSS , Javascript
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **https://threedolts.vercel.app**
+- **https://www.linkedin.com/in/in/samuel-githinji-083029235/**
+- **https://x.com/samuelndewa2018**
 
 
